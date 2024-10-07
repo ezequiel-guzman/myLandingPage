@@ -1,0 +1,33 @@
+body{
+  background-color: rgb(224, 249, 255);
+
+}
+h1{
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  justify-content: center;
+  display: flex;
+  justify-content: center;
+}
+
+p{
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  display: flex;
+  justify-content: center;
+}
+
+.divMargin{
+  margin-top: 100px;
+}
+
+a{
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
+}
